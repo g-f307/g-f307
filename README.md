@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=F7D893&width=435&lines=Ol%C3%A1%2C+me+chamo+Gabriel+Fernandes!!!;Te+convido+a+conhecer+meu+perfil)](https://git.io/typing-svg)
 
-<br>
-
 [![SaaS em produção](https://img.shields.io/badge/SaaS_EM_PRODUÇÃO-flashify.cloud-66765B?style=for-the-badge&labelColor=1D1D1B)](https://flashify.cloud)
 
 ![Portfólio](https://img.shields.io/badge/CONHEÇA_MEU_PORTFÓLIO-CLIQUE_AQUI-C5B89E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D1D1B)
