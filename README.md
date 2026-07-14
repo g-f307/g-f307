@@ -58,15 +58,17 @@ Não é apenas uma demonstração: é um produto com autenticação, processamen
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=g-f307&amp;show_icons=true&amp;include_all_commits=true&amp;locale=pt-br&amp;bg_color=1D1D1B&amp;title_color=C5B89E&amp;text_color=E7E0D3&amp;icon_color=8A8275&amp;border_color=66765B" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=g-f307&amp;show_icons=true&amp;include_all_commits=true&amp;locale=pt-br&amp;bg_color=F4EFE6&amp;title_color=5F594F&amp;text_color=2B2925&amp;icon_color=8A6657&amp;border_color=C5B89E" />
-  <img height="180" alt="Estatísticas do GitHub de Gabriel Fernandes" src="https://github-readme-stats.vercel.app/api?username=g-f307&amp;show_icons=true&amp;include_all_commits=true&amp;locale=pt-br" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=g-f307&amp;show_icons=true&amp;include_all_commits=true&amp;locale=pt-br&amp;bg_color=1D1D1B&amp;title_color=C5B89E&amp;text_color=E7E0D3&amp;icon_color=8A8275&amp;border_color=66765B" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=g-f307&amp;show_icons=true&amp;include_all_commits=true&amp;locale=pt-br&amp;bg_color=F4EFE6&amp;title_color=5F594F&amp;text_color=2B2925&amp;icon_color=8A6657&amp;border_color=C5B89E" />
+  <img height="180" alt="Estatísticas" src="https://github-stats-extended.vercel.app/api?username=g-f307&amp;show_icons=true&amp;include_all_commits=true&amp;locale=pt-br" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=g-f307&amp;layout=compact&amp;langs_count=8&amp;locale=pt-br&amp;bg_color=1D1D1B&amp;title_color=C5B89E&amp;text_color=E7E0D3&amp;border_color=66765B" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=g-f307&amp;layout=compact&amp;langs_count=8&amp;locale=pt-br&amp;bg_color=F4EFE6&amp;title_color=5F594F&amp;text_color=2B2925&amp;border_color=C5B89E" />
-  <img height="180" alt="Linguagens mais utilizadas por Gabriel Fernandes" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-f307&amp;layout=compact&amp;langs_count=8&amp;locale=pt-br" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=g-f307&amp;layout=compact&amp;langs_count=8&amp;locale=pt-br&amp;bg_color=1D1D1B&amp;title_color=C5B89E&amp;text_color=E7E0D3&amp;border_color=66765B" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=g-f307&amp;layout=compact&amp;langs_count=8&amp;locale=pt-br&amp;bg_color=F4EFE6&amp;title_color=5F594F&amp;text_color=2B2925&amp;border_color=C5B89E" />
+  <img height="180" alt="Linguagens mais utilizadas" src="https://github-stats-extended.vercel.app/api/top-langs/?username=g-f307&amp;layout=compact&amp;langs_count=8&amp;locale=pt-br" />
 </picture>
+
+</div>
 
 </div>
 
