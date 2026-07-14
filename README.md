@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="./assets/profile-header.png" width="100%" alt="Olá, sou Gabriel Fernandes — Engenheiro de Software" />
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,sou Gabriel Fernandes!+🖥️&center=true&size=30">
+  </a>
+</h1>
 
 <br>
 
