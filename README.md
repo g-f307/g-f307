@@ -6,7 +6,7 @@
 
 [![SaaS em produção](https://img.shields.io/badge/SaaS_EM_PRODUÇÃO-flashify.cloud-66765B?style=for-the-badge&labelColor=1D1D1B)](https://flashify.cloud)
 
-![Portfólio](https://img.shields.io/badge/CONHEÇA_MEU_PORTFÓLIO-CLIQUE_AQUI-C5B89E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D1D1B)
+![Portfólio](https://img.shields.io/badge/CONHEÇA_MEU_PORTFÓLIO-CLIQUE_AQUI-C5B89E?style=for-the-badge&logoColor=white&labelColor=1D1D1B)
 
 </div>
 
@@ -155,7 +155,7 @@ Não é apenas uma demonstração: é um produto com autenticação, processamen
 
 ### Saiba mais sobre mim
 
-![Portfólio](https://img.shields.io/badge/CONHEÇA_MEU_PORTFÓLIO-CLIQUE_AQUI-C5B89E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1D1D1B)
+![Portfólio](https://img.shields.io/badge/CONHEÇA_MEU_PORTFÓLIO-CLIQUE_AQUI-C5B89E?style=for-the-badge&logoColor=white&labelColor=1D1D1B)
 
 </div>
 
