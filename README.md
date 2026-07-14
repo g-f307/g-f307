@@ -53,17 +53,6 @@ Não é apenas uma demonstração: é um produto com autenticação, processamen
 
 > Arquitetura distribuída e preparada para crescer: a aplicação separa interface, API, persistência, cache, filas e workers, permitindo evoluir cada responsabilidade com menos acoplamento.
 
-## Projetos selecionados
-
-| Projeto | Escopo técnico |
-|:--|:--|
-| [**YARA**](https://github.com/g-f307/yara) | Plataforma para análise metagenômica 16S rRNA com Next.js, FastAPI, PostgreSQL, QIIME 2 e Plotly. |
-| [**Flashify Mobile**](https://github.com/g-f307/flashify-mobile) | Aplicativo Android com Kotlin, Jetpack Compose, Room, sincronização offline e recursos de IA. |
-| [**Previsão de bilheteria**](https://github.com/g-f307/crisp_dm) | Pipeline MLOps com scikit-learn, DVC, MLflow, registro de modelos e API de inferência. |
-| [**Demografia e UBS**](https://github.com/g-f307/soap-municipios) | ETL de dados do Censo/CNES, MySQL, serviço SOAP em Java e integrações REST. |
-| [**Central Crítica**](https://github.com/g-f307/central-critica) | Aplicação React e Node.js com OAuth, JWT, conteúdo autoral e integração com TMDB. |
-| [**Form Monitoring**](https://github.com/g-f307/formmonitoring) | Automação de testes de acessibilidade, usabilidade e performance com Java e Selenium. |
-
 ## Stack principal
 
 <div align="center">
