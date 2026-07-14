@@ -1,22 +1,18 @@
 <div align="center">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,sou Gabriel Fernandes!+🖥️&center=true&size=30">
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=F7D893&width=435&lines=Ol%C3%A1%2C+me+chamo+Gabriel+Fernandes!!!;Te+convido+a+conhecer+meu+perfil)](https://git.io/typing-svg)
 
 <br>
 
-[![SaaS em produção](https://img.shields.io/badge/●_SaaS_EM_PRODUÇÃO-flashify.cloud-66765B?style=for-the-badge&labelColor=1D1D1B)](https://flashify.cloud)
-[![GitHub](https://img.shields.io/badge/GITHUB-g--f307-C5B89E?style=for-the-badge&logo=github&logoColor=white&labelColor=1D1D1B)](https://github.com/g-f307)
-[![E-mail](https://img.shields.io/badge/CONTATO-E--MAIL-8A8275?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1D1D1B)](mailto:gabrielsa720@gmail.com)
+[![SaaS em produção](https://img.shields.io/badge/SaaS_EM_PRODUÇÃO-flashify.cloud-66765B?style=for-the-badge&labelColor=1D1D1B)](https://flashify.cloud)
 
 </div>
 
 ## Engenheiro de Software · Full Stack · IA & DevOps
 
-Desenvolvo e opero aplicações web e mobile, de APIs e dados à infraestrutura. Sou um dos criadores e desenvolvedores do **Flashify**, aplicação educacional que combina inteligência artificial com métodos consolidados de aprendizagem.
+Desenvolvo e opero aplicações web e mobile, de APIs e dados à infraestrutura. Sou um dos criadores e desenvolvedor do **Flashify**, aplicação educacional que combina inteligência artificial com métodos consolidados de aprendizagem.
+
+Atuo no ciclo completo do produto: arquitetura, desenvolvimento, persistência, integração, containerização, deploy e evolução técnica.
 
 ## Produto em produção
 
@@ -24,14 +20,11 @@ Desenvolvo e opero aplicações web e mobile, de APIs e dados à infraestrutura.
 <tr>
 <td width="62%" valign="top">
 
-### [Flashify.cloud ↗](https://flashify.cloud)
+### [⭐ Flashify.cloud ↗](https://flashify.cloud)
 
 **SaaS de aprendizagem com IA, disponível em produção.** O Flashify transforma PDFs, imagens, apresentações e textos em flashcards e quizzes, organiza o estudo e acompanha a evolução do usuário.
 
 Não é apenas uma demonstração: é um produto com autenticação, processamento de documentos, geração por IA, tarefas em background, analytics, comunicação transacional e uma rotina estruturada de releases.
-
-[![Acessar produto](https://img.shields.io/badge/ACESSAR_O_PRODUTO-flashify.cloud-22C55E?style=flat-square&logo=googlechrome&logoColor=white)](https://flashify.cloud)
-[![Código](https://img.shields.io/badge/VER_CÓDIGO-GitHub-334155?style=flat-square&logo=github&logoColor=white)](https://github.com/g-f307/flashify-app)
 
 </td>
 <td width="38%" valign="top">
@@ -53,86 +46,23 @@ Não é apenas uma demonstração: é um produto com autenticação, processamen
 - Releases com QA, riscos e rollback
 - Analytics e tarefas agendadas
 
+<br>
 </td>
 </tr>
 </table>
 
 > Arquitetura distribuída e preparada para crescer: a aplicação separa interface, API, persistência, cache, filas e workers, permitindo evoluir cada responsabilidade com menos acoplamento.
 
-## Engenharia que vai além do código
+## Projetos selecionados
 
-| Competência | Como aplico |
+| Projeto | Escopo técnico |
 |:--|:--|
-| **Arquitetura escalável** | Separação de serviços, processamento assíncrono, cache, filas, APIs bem definidas e persistência relacional. |
-| **DevOps & operação** | Containers, orquestração com Compose, ambientes reproduzíveis, health checks, redes, volumes e automação de deploy. |
-| **Gestão de produto técnico** | Escopo de releases, análise de impacto, critérios de aceite, QA, documentação de riscos, plano de deploy e rollback. |
-| **Dados & Inteligência Artificial** | LLMs, visão computacional, pipelines de ML, rastreamento de experimentos, análise estatística e visualização de dados. |
-| **Engenharia Full Stack** | Interfaces responsivas, autenticação, APIs, bancos relacionais, integrações externas e aplicações web/mobile. |
-
-## Projetos que demonstram amplitude
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [YARA](https://github.com/g-f307/yara)
-
-Plataforma científica para análise metagenômica 16S rRNA. Une uma experiência conversacional em português a serviços estatísticos, arquivos QIIME 2, gráficos Plotly e relatórios exportáveis.
-
-`Next.js` `FastAPI` `PostgreSQL` `Prisma` `scikit-bio` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### [Flashify Mobile](https://github.com/g-f307/flashify-mobile)
-
-Aplicativo Android nativo com IA, funcionamento offline, sincronização, flashcards, quizzes, métricas e acompanhamento de hábitos de estudo.
-
-`Kotlin` `Jetpack Compose` `Room` `FastAPI` `Redis` `Vertex AI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [MLOps — previsão de bilheteria](https://github.com/g-f307/crisp_dm)
-
-Pipeline reprodutível de machine learning com versionamento de dados, experiment tracking, model registry, promoção de modelo e API containerizada de inferência.
-
-`Python` `scikit-learn` `MLflow` `DVC` `FastAPI` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### [Demografia e UBS via SOAP](https://github.com/g-f307/soap-municipios)
-
-Arquitetura em camadas que consolida dados públicos do Censo e CNES por ETL e os disponibiliza por serviço SOAP, com integrações REST e cliente próprio.
-
-`Java` `JAX-WS` `Python` `MySQL` `ETL` `SOAP`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Central Crítica](https://github.com/g-f307/central-critica)
-
-Produto full stack de filmes e séries com descoberta de conteúdo, críticas, artigos, OAuth, autorização e integração com a API do TMDB.
-
-`React` `Node.js` `Express` `Sequelize` `JWT` `OAuth`
-
-</td>
-<td width="50%" valign="top">
-
-### [Form Monitoring](https://github.com/g-f307/formmonitoring)
-
-Sistema automatizado para avaliar acessibilidade, usabilidade, responsividade e performance de formulários, com execução em tempo real e persistência dos resultados.
-
-`Java` `Selenium` `Jakarta EE` `SSE` `MySQL` `Maven`
-
-</td>
-</tr>
-</table>
+| [**YARA**](https://github.com/g-f307/yara) | Plataforma para análise metagenômica 16S rRNA com Next.js, FastAPI, PostgreSQL, QIIME 2 e Plotly. |
+| [**Flashify Mobile**](https://github.com/g-f307/flashify-mobile) | Aplicativo Android com Kotlin, Jetpack Compose, Room, sincronização offline e recursos de IA. |
+| [**Previsão de bilheteria**](https://github.com/g-f307/crisp_dm) | Pipeline MLOps com scikit-learn, DVC, MLflow, registro de modelos e API de inferência. |
+| [**Demografia e UBS**](https://github.com/g-f307/soap-municipios) | ETL de dados do Censo/CNES, MySQL, serviço SOAP em Java e integrações REST. |
+| [**Central Crítica**](https://github.com/g-f307/central-critica) | Aplicação React e Node.js com OAuth, JWT, conteúdo autoral e integração com TMDB. |
+| [**Form Monitoring**](https://github.com/g-f307/formmonitoring) | Automação de testes de acessibilidade, usabilidade e performance com Java e Selenium. |
 
 ## Stack principal
 
